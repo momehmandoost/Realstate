@@ -1,0 +1,231 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "mehmandoost2@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$xU6KIRAZkTvyQBFIsPybOO/D8.LC9oMDrNAqUquaYFXzBHsbbJRwy",
+      "id": "3LDoWUI"
+    },
+    {
+      "email": "Khorshid@gmail.com",
+      "password": "$2a$10$UQHF7SnxsA0xL5b9e0xUreqm8TQvmECTX9R09D0bPqbg0I/VSvr2y",
+      "id": "hXuNKo0"
+    },
+    {
+      "email": "mehmandoost@gmail.xom",
+      "password": "$2a$10$xT7Z.fUfVv5Dkmympd0oreP6CEGnMwp7QiI1fZTCnoWJ.BJkJ1MB.",
+      "id": "Q5j7p5U"
+    },
+    {
+      "email": "mehmandoost@gmail.xvom",
+      "password": "$2a$10$I8SiQKD0LPK1WSDLtbshqOszPnbdZ0UKFuEhOl9P.PBaZWEozyama",
+      "id": "rkQqaS7"
+    },
+    {
+      "email": "mehmandoost22@gmail.com",
+      "password": "$2a$10$/MTofcz0T.bX/F/5whZwt.76Kg/zhYuavInNHyn2t4BP4AcivWrBm",
+      "id": "Ta6h8oW"
+    },
+    {
+      "email": "mohammad@gmail.com",
+      "password": "$2a$10$O5ZzIr17lJyshy4N8iEjt.Z9UbpCpTVTkF24rvB0POMteFgchAV36",
+      "id": "awISAfZ"
+    },
+    {
+      "email": "reza@gmail.com",
+      "password": "$2a$10$.TEo.jRyHRGLH7W6go/b4OskkYGWGxMH7Tz4FsCAGiXIIaDPNbuPe",
+      "id": "VvO8V2d"
+    },
+    {
+      "email": "reza2@gmail.com",
+      "password": "$2a$10$k2ShdebMEw0VW7KtNL9OzeDZyzh7DbZIj5IIS2NNlLfYRE8XLH1ly",
+      "id": "pbg9pIq"
+    },
+    {
+      "email": "reza3@gmail.com",
+      "password": "$2a$10$XIP6LOZbgUivQJGtDOfwDeRlMiBXsXulDveI5KGb3qJyt.exBy1QO",
+      "id": "Xf31M5O"
+    },
+    {
+      "email": "mehmandoost3@gmail.com",
+      "password": "$2a$10$96qe.hkDH2bh1pITZG4db.s1uenI.D.C3Z9xiDsHuhDwKEVHb85d2",
+      "id": "d_Qsu3H"
+    },
+    {
+      "email": "mehmandoostt@gmail.com",
+      "password": "$2a$10$ZZHM4Bu.bcb.DLnPu4phi.NpwfGJzzoyOIJkMsRzhBPDjEAESYIzy",
+      "id": "cjTZ6pD"
+    }
+  ],
+  "lands": [
+    {
+      "location": {
+        "lat": 35.70749253887843,
+        "lng": 51.3200569152832
+      },
+      "phone": "09361399769",
+      "address": "Tehran , Mehrabad",
+      "description": "3 Bed - 2 Bath - 361 FT",
+      "userId": "awISAfZ",
+      "id": 1
+    },
+    {
+      "location": {
+        "lat": 35.75779654289608,
+        "lng": 51.30632400512696
+      },
+      "phone": "09125454555",
+      "address": "Tehran , Gholhak",
+      "description": "1 Bed - 1 Bath - 760 FT",
+      "userId": "awISAfZ",
+      "id": 2
+    },
+    {
+      "location": {
+        "lat": 35.75911990334671,
+        "lng": 51.41344070434571
+      },
+      "phone": "09361399766",
+      "address": "Tehran , Nelson Mandela",
+      "description": "3 Bed - 2 Bath - 555 FT",
+      "userId": "awISAfZ",
+      "id": 3
+    },
+    {
+      "location": {
+        "lat": 35.67458964688105,
+        "lng": 51.327953338623054
+      },
+      "phone": "09361212222",
+      "address": "Tehran , Mehrabad Jonoubi",
+      "description": "1 Bed - 1 Bath - 222 FT",
+      "userId": "awISAfZ",
+      "id": 4
+    },
+    {
+      "location": {
+        "lat": 35.81499436725121,
+        "lng": 51.40781879425049
+      },
+      "phone": "09355555444",
+      "address": "Tehran , Toochal",
+      "description": "2 Bed - 1 Bath - 369 FT",
+      "userId": "awISAfZ",
+      "id": 5
+    },
+    {
+      "location": {
+        "lat": 35.712510430860604,
+        "lng": 51.27714157104493
+      },
+      "phone": "09361399666",
+      "address": "Tehran , Valiasr Blv",
+      "description": "No Bed - 1 Bath - 100 FT",
+      "userId": "awISAfZ",
+      "id": 6
+    },
+    {
+      "location": {
+        "lat": 35.75974675061447,
+        "lng": 51.52193069458008
+      },
+      "phone": "09361399769",
+      "address": "Tehran , Lavizan",
+      "description": "4 Bed - 3 Bath - 500 FT",
+      "userId": "awISAfZ",
+      "id": 7
+    },
+    {
+      "location": {
+        "lat": 35.80305689437219,
+        "lng": 51.439533233642585
+      },
+      "phone": "09361399763",
+      "address": "Tehran , Tajrish",
+      "description": "4 Bed - 4 Bath - 700 FT",
+      "userId": "awISAfZ",
+      "id": 8
+    },
+    {
+      "location": {
+        "lat": 35.80925084927647,
+        "lng": 51.399705547399826
+      },
+      "phone": "09991213444",
+      "address": "Tehran , Velenjak",
+      "description": "2 Bed - 2 Bath - 600 FT",
+      "userId": "awISAfZ",
+      "id": 9
+    },
+    {
+      "location": {
+        "lat": 35.747348187601595,
+        "lng": 51.47592544555665
+      },
+      "phone": "093713997666",
+      "address": "Tehran , Koohak",
+      "description": "1 Bed - 1 Bath - 200 FT",
+      "userId": "awISAfZ",
+      "id": 10
+    },
+    {
+      "location": {
+        "lat": 35.712928574266215,
+        "lng": 51.27920150756836
+      },
+      "phone": "09126666666",
+      "address": "Tehran , Valiasr",
+      "description": "2 Bed - 2 Bath - 400 FT",
+      "userId": "awISAfZ",
+      "id": 11
+    },
+    {
+      "location": {
+        "lat": 35.70094092670511,
+        "lng": 51.484508514404304
+      },
+      "phone": "09361399655",
+      "address": "Tehran , Niroohavaei",
+      "description": "1-3 Bed - 2 Bath - 361 FT",
+      "userId": "awISAfZ",
+      "id": 12
+    },
+    {
+      "location": {
+        "lat": 35.761000430333475,
+        "lng": 51.39404296875001
+      },
+      "phone": "09361399795",
+      "address": "Tehran , Shahran",
+      "description": "No Bed - 1 Bath - 800 FT",
+      "userId": "awISAfZ",
+      "id": 13
+    },
+    {
+      "location": {
+        "lat": 35.72644736208901,
+        "lng": 51.42013549804688
+      },
+      "phone": "09361399769",
+      "address": "Tehran , Azadi",
+      "description": "1 Bed - 1 Bath - 500 FT",
+      "userId": "awISAfZ",
+      "id": 14
+    },
+    {
+      "location": {
+        "lat": 35.72756221127198,
+        "lng": 51.35353088378906
+      },
+      "phone": "09361399766",
+      "address": "Tehran , Azadi",
+      "description": "2 Bed - 1 Bath - 500 FT",
+      "userId": "pbg9pIq",
+      "id": 15
+    }
+  ]
+}
