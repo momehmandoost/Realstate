@@ -1,5 +1,5 @@
 # Real State Project
-![Logo](https://i.ibb.co/frcwT6c/Logo.png)
+![Logo](https://i.ibb.co/pLMVGP1/Logo.jpg)
 
 First, run the development server:
 
